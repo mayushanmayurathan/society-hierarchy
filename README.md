@@ -5,4 +5,4 @@ COLLABORATORS: Mayushan Mayurathan & Cole Purboo
 
 NOTE: society_hierarchy.py is the sole file that contains the collborators' work on this project. 
       
-      a2_sample_test_3.py featured a series of tests created by the course instructors, Mayushan Mayurathan and Cole Purboo.
+a2_sample_test_3.py featured a series of tests created by the course instructors, Mayushan Mayurathan and Cole Purboo.
