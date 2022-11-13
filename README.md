@@ -3,6 +3,8 @@ PROJECT DESCRIPTION: A mock social order system that has potential HR management
 
 COLLABORATORS: Mayushan Mayurathan & Cole Purboo
 
-NOTE: society_hierarchy.py is the sole file that contains the collborators' work on this project. 
-      
-a2_sample_test_3.py featured a series of tests created by the course instructors, Mayushan Mayurathan and Cole Purboo.
+NOTE:
+
+(1) society_hierarchy.py is the sole file that contains the collborators' work on this project. 
+
+(2) a2_sample_test_3.py featured a series of tests created by the course instructors, Mayushan Mayurathan and Cole Purboo.
