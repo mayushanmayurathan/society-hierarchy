@@ -1,5 +1,5 @@
 # society-hierarchy
-PROJECT DESCRIPTION: A mock social order system that has potential HR management applications using Python. This program models a society divided into districts with citizens serving various roles that adhere to a social hierarchy using object-oriented programming principles. Implemented a series of uni-tests to validate 
+PROJECT DESCRIPTION: A mock social order system that has potential HR management applications using Python. This program models a society divided into districts with citizens serving various roles that adhere to a social hierarchy using object-oriented programming principles. Implemented a series of unit tests to validate the correctness of the program.
 
 COLLABORATORS: Mayushan Mayurathan & Cole Purboo
 
